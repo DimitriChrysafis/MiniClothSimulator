@@ -8,4 +8,4 @@ a teeny tiny cloth made up of a bunch of balls that you can stretch and play wit
 
 ## UML Diagram
 
-![UML Diagram](UML/uml_diagram.png)
+![UML Diagram](UML/seqence_diagram.png)
