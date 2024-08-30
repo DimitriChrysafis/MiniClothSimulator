@@ -1,4 +1,4 @@
-# main.py
+
 import pygame
 from simulation import Simulation
 from particle import Particle
